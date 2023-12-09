@@ -1,6 +1,6 @@
 # ownCloud Using Docker
 
-Create ```.env``` file for the specific repo (folder) and save the following data into .env file:
+Create ```.env``` file for the specific repo (folder) and save the following data into ```.env``` file:
 
 ```sh
 OWNCLOUD_VERSION=10.6
