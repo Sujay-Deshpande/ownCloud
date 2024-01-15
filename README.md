@@ -18,3 +18,5 @@ docker-compose up -d
 ```
 
 and serch ``` http://localhost:8080 ``` on the browser. 
+
+Video Link: [https://t.ly/67n0g](https://youtu.be/Njdbc9_fg60)
